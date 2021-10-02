@@ -4,3 +4,5 @@ venv
 *.pyc
 
 *.sqlite3
+
+my_blog/my_blog/setting.py
